@@ -1,0 +1,1 @@
+Haptic glove gesture regocnition
