@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a324a3ce3e588b7e3abcfac6d755f8523dc009df.jar" />
+    </item>
+    <item
+        jar="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/libs/OneDollarUnistrokeRecognizer.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ede952a8b78a7f6c6d48f3cc81028b8c2e977c77">
+        <dex dex="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/pre-dexed/debug/OneDollarUnistrokeRecognizer-e15654dd2bfcc35ec5de4caafa22f4053800e948.jar" />
+    </item>
+    <item
+        jar="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/pre-dexed/debug/classes-7229a6835df5f5fb814b9a9b9100c73edf029e8b.jar" />
+    </item>
+    <item
+        jar="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/pre-dexed/debug/classes-459402e52c73818d8a4611376a2817dcf448126f.jar" />
+    </item>
+    <item
+        jar="/Users/Virta/Documents/2015-2016/InteractiveSystems/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-80f97cb24caa87b9106268a4cf15aa5ce243e6b7.jar" />
+    </item>
+    <item
+        jar="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/libs/hdm.pia-1.0.2-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd0dae0e9fcc1278457b353da574cc3ae7e87db4">
+        <dex dex="/Users/Virta/GitRepositories/ProcessingAndroidSketch/app/build/intermediates/pre-dexed/debug/hdm.pia-1.0.2-jar-with-dependencies-8b9a79cb3501ad2f514aad18d96acb6933f1b18d.jar" />
+    </item>
+
+</items>
