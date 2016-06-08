@@ -1,1 +1,4 @@
-Haptic glove gesture regocnition
+Haptic glove gesture recognition
+########
+
+Read the REPORT.
